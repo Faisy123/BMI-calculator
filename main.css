@@ -1,0 +1,54 @@
+    *
+{
+    padding: 0;
+    margin: 0;
+} 
+
+body
+{
+    border: 2px solid greenyellow;
+    margin: 50px;
+}
+
+h2{
+    padding-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(153, 248, 10);
+    font-stretch: semi-condensed;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+main
+{
+    clear: both;
+    /* border-top:2px solid greenyellow; */
+    border-bottom: 2px solid greenyellow;
+    padding: 10px 10px 10px 600px;
+    background-color: rgb(228, 235, 219);
+}
+
+header img
+{
+    float: left;
+    padding-left: 600px;
+    padding-right: 20px;
+}
+
+.movetocenter
+{
+    display: inline-block;
+    height: 30px;
+    width: 90px;
+}
+
+.Submit
+{
+    height: 30px;
+    width: 70px;
+}
+
+footer p
+{
+    text-align: center;
+    background-color: greenyellow;
+}
